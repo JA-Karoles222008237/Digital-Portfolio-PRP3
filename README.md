@@ -34,3 +34,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+## 📢 1. BUSINESS COMMUNICATION
+
+## 💬 2. INTERVIEW SKILLS
+
+## 🎙️ 3. MOCK INTERVIEW
+
+## 🤝 4. PROFESSIONAL NETWORKING
+
+## 🏢 5. WORKPLACE ETIQUETTE
