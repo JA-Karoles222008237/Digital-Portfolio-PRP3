@@ -4,6 +4,11 @@
 
 ### Hi there 👋, my name is Justin Karoles.
 # 💼 Work Readiness Digital Portfolio
+<h2>About me</h2>
+
+I am Justin Karoles, currently working as a Junior Software Developer [LinkedIn](https://www.linkedin.com/in/justin-karoles-05a886224). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+⚡ Fun fact:  I love connecting with people—it's like collecting rare Pokémon, but instead of stats, I get wisdom. Every conversation is a portal to a new universe, and I’m just here leveling up my perspective points across all domains.  
+💬 Ask me anything, I will be more than happy to help :D
 
 <!--
 **JA-Karoles222008237/JA-Karoles222008237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
