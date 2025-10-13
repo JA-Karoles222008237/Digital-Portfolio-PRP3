@@ -44,3 +44,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🤝 4. PROFESSIONAL NETWORKING
 
 ## 🏢 5. WORKPLACE ETIQUETTE
+
+---
+
+## 📢 Contact
+
+- 📧 Email: 222008237@mycput.ac.za 
+- 💼 LinkedIn: [linkedin.com/in/justin-karoles-05a886224](👉 https://www.linkedin.com/in/justin-karoles-05a886224) 
+
+---
+
