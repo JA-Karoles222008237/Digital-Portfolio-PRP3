@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JA-Karoles222008237/JA-Karoles222008237/main/docs/github-banner-1920x80.jpg" style="width:100%; height:150px; object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/JA-Karoles222008237/Digital-Portfolio-PRP3/main/doc/" style="width:100%; height:150px; object-fit: cover;" />
 </p>
 
 
