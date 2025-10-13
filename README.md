@@ -61,7 +61,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 
 ### 💭 Reflection (STAR)
 **S:**  
-**T:** 
+**T:**
+
 **A:**   
 **R:** 
 
@@ -71,7 +72,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 
 ### 💭 Reflection (STAR)
 **S:**   
-**T:** 
+**T:**
+
 **A:**   
 **R:** 
 
