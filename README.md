@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/JA-Karoles222008237/Digital-Portfolio-PRP3/blob/main/doc/Ferrari%20Ford.jpg style="width:100%; height:150px; object-fit: cover;" />
+  <img src="https://github.com/JA-Karoles222008237/Digital-Portfolio-PRP3/blob/main/doc/Ferrari%20Ford.jpg" style="width:100%; height:150px; object-fit:cover;" />
 </p>
 
 
