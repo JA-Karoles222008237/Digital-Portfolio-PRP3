@@ -37,13 +37,53 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 
 ## 📢 1. BUSINESS COMMUNICATION
 
+### 🧾 Evidence
+
+### 💭 Reflection (STAR)
+**S:**  
+**T:**  
+**A:**   
+**R:** 
+
 ## 💬 2. INTERVIEW SKILLS
+
+### 🧾 Evidence
+
+### 💭 Reflection (STAR)
+**S:**  
+**T:**   
+**A:**   
+**R:** 
 
 ## 🎙️ 3. MOCK INTERVIEW
 
+### 🧾 Evidence
+
+### 💭 Reflection (STAR)
+**S:**  
+**T:** 
+**A:**   
+**R:** 
+
 ## 🤝 4. PROFESSIONAL NETWORKING
 
+### 🧾 Evidence
+
+### 💭 Reflection (STAR)
+**S:**   
+**T:** 
+**A:**   
+**R:** 
+
 ## 🏢 5. WORKPLACE ETIQUETTE
+
+### 🧾 Evidence
+
+### 💭 Reflection (STAR)
+**S:**   
+**T:**   
+**A:**   
+**R:** 
 
 ---
 
