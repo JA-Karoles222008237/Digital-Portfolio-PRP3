@@ -55,10 +55,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ![Interview Skills Screenshot](/doc/InterviewSkills.png)
 
 ### 💭 Reflection (STAR)
-**S:**  
-**T:**   
-**A:**   
-**R:** 
+**S:**  As part of my academic development, I enrolled in the Interview Skills module to prepare for future job applications and professional interactions. 
+
+**T:**  My objective was to understand the key components of a successful job interview and demonstrate this knowledge through a formal assessment.  
+
+**A:** I studied the course material thoroughly, focusing on the purpose of interviews, types of questions, and effective communication strategies. I completed the quiz with full attention to detail, applying both theoretical understanding and practical insight.   
+
+**R:** I achieved a 100/100 score, completing the assessment in just over 8 minutes. This result reflects my readiness to approach interviews with confidence, clarity, and professionalism.
 
 ## 🎙️ 3. MOCK INTERVIEW
 
