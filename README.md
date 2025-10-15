@@ -70,10 +70,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 [▶️ Watch Mock Video](https://github.com/JA-Karoles222008237/Digital-Portfolio-PRP3/raw/main/doc/Mock%20video%20222008237.mp4)
 
 ### 💭 Reflection (STAR)
-**S:**  
-**T:**
-**A:**   
-**R:** 
+**S:** In Term 1, I was preparing for real-world job applications and wanted to build confidence in presenting myself professionally. As part of my coursework, I submitted a mock interview to simulate the experience and receive feedback. 
+
+**T:** My goal was to demonstrate my readiness for industry interviews by practicing structured responses, showcasing my technical and interpersonal strengths, and refining my delivery.
+
+**A:** I recorded and submitted a mock interview, applying the STAR method to answer behavioral questions and highlight my ICT skills. I focused on clarity, tone, and body language, treating it as a real opportunity to reflect my capabilities. I later used this experience to prepare for an actual video interview with Lead Generation Group for a Front-End Developer role.   
+
+**R:** The mock interview helped me identify areas for improvement and boosted my confidence. I was able to apply those lessons in a real application, which led to a successful shortlisting and invitation to a formal video interview. This progression shows how academic exercises can directly impact career outcomes.
 
 ## 🤝 4. PROFESSIONAL NETWORKING
 
