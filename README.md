@@ -72,7 +72,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🤝 4. PROFESSIONAL NETWORKING
 
 ### 🧾 Evidence
-![Business Communication Screenshot](/doc/BusinessCommunication.png)
+![PROFESSIONAL NETWORKING Screenshot](/doc/ProfessionalNetworking.png)
 
 ### 💭 Reflection (STAR)
 **S:**   
@@ -83,7 +83,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🏢 5. WORKPLACE ETIQUETTE
 
 ### 🧾 Evidence
-![Business Communication Screenshot](/doc/BusinessCommunication.png)
+![WORKPLACE ETIQUETTE Screenshot](/doc/Workplace.png)
 
 ### 💭 Reflection (STAR)
 **S:**   
