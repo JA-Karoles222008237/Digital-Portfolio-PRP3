@@ -49,6 +49,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 💬 2. INTERVIEW SKILLS
 
 ### 🧾 Evidence
+![Interview Skills Screenshot](/doc/InterviewSkills.png)
 
 ### 💭 Reflection (STAR)
 **S:**  
@@ -59,6 +60,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🎙️ 3. MOCK INTERVIEW
 
 ### 🧾 Evidence
+![Mock Interview Screenshot](/doc/BusinessCommunication.png)
+<video width="640" height="360" controls>
+  <source src="/doc/Mock%20video%20222008237.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### 💭 Reflection (STAR)
 **S:**  
@@ -69,6 +75,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🤝 4. PROFESSIONAL NETWORKING
 
 ### 🧾 Evidence
+![Business Communication Screenshot](/doc/BusinessCommunication.png)
 
 ### 💭 Reflection (STAR)
 **S:**   
@@ -79,6 +86,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🏢 5. WORKPLACE ETIQUETTE
 
 ### 🧾 Evidence
+![Business Communication Screenshot](/doc/BusinessCommunication.png)
 
 ### 💭 Reflection (STAR)
 **S:**   
