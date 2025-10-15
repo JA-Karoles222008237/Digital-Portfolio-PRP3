@@ -84,10 +84,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ![PROFESSIONAL NETWORKING Screenshot](/doc/ProfessionalNetworking.png)
 
 ### 💭 Reflection (STAR)
-**S:**   
-**T:**
-**A:**   
-**R:** 
+**S:**  As part of my ICT diploma, I completed a module on Professional Networking to better understand how relationships and communication can influence career growth. At the same time, I was actively exploring work opportunities through personal connections.  
+
+**T:** My goal was to learn how to build and leverage professional networks, both formally and informally, to support my career development and job search.
+
+**A:**  I completed the course with full engagement, scoring 100%. Outside of the classroom, I reached out to friends and friends-of-friends who were already working in tech-related roles. These conversations weren’t documented, but they gave me valuable insights into hiring trends, workplace expectations, and potential openings.  
+
+**R:** I gained a deeper appreciation for the power of informal networking. While I didn’t secure a role directly through these chats, they helped me clarify my goals and prepare for future interviews. The module reinforced the importance of staying connected, being proactive, and communicating with purpose.
 
 ## 🏢 5. WORKPLACE ETIQUETTE
 
@@ -95,10 +98,13 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ![WORKPLACE ETIQUETTE Screenshot](/doc/Workplace.png)
 
 ### 💭 Reflection (STAR)
-**S:**   
-**T:**   
-**A:**   
-**R:** 
+**S:** As part of my academic program, I completed a module on Workplace Etiquette to understand professional behavior in organizational settings. Simultaneously, I was gaining hands-on experience through my WIL internship, where workplace conduct was actively practiced and enforced.  
+
+**T:** My goal was to learn and apply proper workplace etiquette, both in theory and in practice—ensuring I could contribute respectfully and professionally in any work environment.  
+
+**A:** I completed the course with full marks, demonstrating my understanding of meeting behavior, communication norms, and professional boundaries. At my internship, I applied these lessons daily: arriving on time, respecting shared spaces, avoiding eating in work areas, and being mindful of colleagues’ preferences and roles. I also signed a formal Code of Conduct, reinforcing my commitment to workplace standards.   
+
+**R:** I achieved a 100% score on the assessment and successfully adapted to a professional environment during my internship. These experiences have strengthened my awareness of workplace dynamics and prepared me to navigate future roles with maturity and respect.
 
 ---
 
