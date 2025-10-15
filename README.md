@@ -95,7 +95,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🏢 5. WORKPLACE ETIQUETTE
 
 ### 🧾 Evidence
-//![WORKPLACE ETIQUETTE Screenshot](/doc/Workplace.png)
 <div style="display: flex; gap: 20px; align-items: flex-start;">
   <img src="/doc/Workplace.png" alt="Workplace Etiquette Screenshot" width="400"/>
   <img src="/doc/Code.png" alt="Code of Conduct Screenshot" width="400"/>
