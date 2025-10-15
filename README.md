@@ -41,14 +41,10 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ![Business Communication Screenshot](/doc/BusinessCommunication.png)
 
 ### 💭 Reflection (STAR)
-**S:**
-I was enrolled in a Business Communication module as part of my ICT diploma, aiming to strengthen my professional communication skills for academic and career contexts.
-**T:**
-My goal was to complete the course with full comprehension and demonstrate mastery through the final assessment
-**A:**
-I actively engaged with the course material, applied critical thinking to each question, and completed the assessment with focus and precision. I ensured I understood both verbal and non-verbal communication principles and their relevance in business settings.
-**R:**
-I achieved a perfect score of 100/100, completing the module in under 13 minutes. This result reflects my strong grasp of business communication concepts and my readiness to apply them in real-world scenarios.
+**S:** I was enrolled in a Business Communication module as part of my ICT diploma, aiming to strengthen my professional communication skills for academic and career contexts.
+**T:** My goal was to complete the course with full comprehension and demonstrate mastery through the final assessment
+**A:** I actively engaged with the course material, applied critical thinking to each question, and completed the assessment with focus and precision. I ensured I understood both verbal and non-verbal communication principles and their relevance in business settings.
+**R:** I achieved a perfect score of 100/100, completing the module in under 13 minutes. This result reflects my strong grasp of business communication concepts and my readiness to apply them in real-world scenarios.
 
 ## 💬 2. INTERVIEW SKILLS
 
