@@ -1,4 +1,4 @@
-![Ferrari Ford](https://raw.githubusercontent.com/JA-Karoles222008237/Digital-Portfolio-PRP3/main/doc/Ferrari%20Ford.jpg)
+![Ferrari Ford](https://raw.githubusercontent.com/JA-Karoles222008237/Digital-Portfolio-PRP3/main/doc/Animation.gif)
 
 
 
