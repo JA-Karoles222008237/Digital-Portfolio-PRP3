@@ -1,4 +1,4 @@
-![Ferrari Ford](https://raw.githubusercontent.com/JA-Karoles222008237/Digital-Portfolio-PRP3/main/doc/Animation.gif)
+![Animation](/doc/Animation.gif)
 
 
 
