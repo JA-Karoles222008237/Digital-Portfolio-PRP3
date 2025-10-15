@@ -1,18 +1,4 @@
 ![Ferrari Ford](https://raw.githubusercontent.com/JA-Karoles222008237/Digital-Portfolio-PRP3/main/doc/Ferrari%20Ford.jpg)
-// React + Tailwind example
-<div className="animate-spin-slow absolute top-1/2 left-1/2">
-  <img src="/icons/react.svg" alt="React" className="w-12 h-12" />
-</div>
-
-<style>
-@keyframes spin-slow {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-.animate-spin-slow {
-  animation: spin-slow 20s linear infinite;
-}
-</style>
 
 
 
