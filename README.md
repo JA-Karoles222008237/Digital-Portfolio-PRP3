@@ -95,7 +95,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🏢 5. WORKPLACE ETIQUETTE
 
 ### 🧾 Evidence
-![WORKPLACE ETIQUETTE Screenshot](/doc/Workplace.png)
+//![WORKPLACE ETIQUETTE Screenshot](/doc/Workplace.png)
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="/doc/Workplace.png" alt="Workplace Etiquette Screenshot" width="400"/>
+  <img src="/doc/Code.png" alt="Code of Conduct Screenshot" width="400"/>
+</div>
 
 ### 💭 Reflection (STAR)
 **S:** As part of my academic program, I completed a module on Workplace Etiquette to understand professional behavior in organizational settings. Simultaneously, I was gaining hands-on experience through my WIL internship, where workplace conduct was actively practiced and enforced.  
