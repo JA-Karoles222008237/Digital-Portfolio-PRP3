@@ -38,6 +38,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 📢 1. BUSINESS COMMUNICATION
 
 ### 🧾 Evidence
+![Business Communication Screenshot](/doc/BusinessCommunication.png)
 
 ### 💭 Reflection (STAR)
 **S:**  
