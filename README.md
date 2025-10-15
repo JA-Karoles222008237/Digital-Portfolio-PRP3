@@ -66,7 +66,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 ## 🎙️ 3. MOCK INTERVIEW
 
 ### 🧾 Evidence
-![Mock Interview Screenshot](/doc/BusinessCommunication.png)
+![Mock Interview Screenshot](/doc/BusinessC2.png)
 [▶️ Watch Mock Video](https://github.com/JA-Karoles222008237/Digital-Portfolio-PRP3/raw/main/doc/Mock%20video%20222008237.mp4)
 
 ### 💭 Reflection (STAR)
