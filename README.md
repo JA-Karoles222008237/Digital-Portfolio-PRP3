@@ -1,4 +1,6 @@
-![Animation](/doc/Animation.gif)
+<p align="center">
+  <img src="/doc/Animation.gif" width="100%" />
+</p>
 
 
 
