@@ -98,8 +98,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / BLOCKCHAIN / JAVA / PHP / FIREBASE / 
 
 ### 🧾 Evidence
 <div style="display: flex; gap: 20px; align-items: flex-start;">
-  <img src="/doc/Workplace.png" alt="Workplace Etiquette Screenshot" width="450"/>
-  <img src="/doc/Code.png" alt="Code of Conduct Screenshot" width="450"/>
+  <img src="/doc/Workplace.png" alt="Workplace Etiquette Screenshot" width="480"/>
+  <img src="/doc/Code.png" alt="Code of Conduct Screenshot" width="480"/>
 </div>
 
 ### 💭 Reflection (STAR)
